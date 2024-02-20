@@ -1,2 +1,2 @@
-package PACKAGE_NAME;public class baitap08 {
+public class baitap08 {
 }
